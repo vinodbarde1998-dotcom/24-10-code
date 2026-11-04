@@ -1,0 +1,49 @@
+{
+  "projectId": "71953154",
+  "functions": {
+    "analyze-market-sentiment": {
+      "hasChanged": false,
+      "hash": "3b15bc6830e1849ad46d6cf112bc673a7fd6ceed38fdca198a49c4fe2ec2036f93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "close-single-position": {
+      "hasChanged": false,
+      "hash": "d4610bc0d0bd9e4d3a7bf18d40668d4d7e6891ad008c0a5e7304ce900018289693d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "create-client": {
+      "hasChanged": false,
+      "hash": "ee2dc46966c5492e0a2ddf2a043aaf6de6bee303921d46615e9fab1d3f8c9c8d93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "create-sub-admin": {
+      "hasChanged": false,
+      "hash": "eee8c7fc1c8f7eb46e916700bf58ebd5c22c45f827a65d8289546f3ae3b1ef9b93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "execute-trade": {
+      "hasChanged": false,
+      "hash": "4ca9fb6a8e5a550b9d47f7e639eb4681391911f9bd03083e80448349ffcb0c6293d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "monitor-positions": {
+      "hasChanged": false,
+      "hash": "d3ae64cef66fa6a2cfa1e9afb278779c2c18ad4fdde6e757d092590ff1f6e42d93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "strategy-runner": {
+      "hasChanged": false,
+      "hash": "b87415d8472c773dd94f8104c8f33140706383e6dda32932424a201d5097510b93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "sync-copy-trades": {
+      "hasChanged": false,
+      "hash": "37791b56b7a23b13174ac09b4f21e910b9b1db6848ccc85f3f7ac39e82af1d1293d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "sync-wallet": {
+      "hasChanged": false,
+      "hash": "ebbe25b9d0eff25b61d4798ed88f4938eb94cb553a5792891d18ed369327db5393d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "trigger-panic-sell": {
+      "hasChanged": false,
+      "hash": "45c4fab4fffdd1337b9ea4fa8f08a99815e0df2e8d1a038ad6e48d642c82c56093d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    },
+    "vault": {
+      "hasChanged": false,
+      "hash": "7b2c6122e5def9338fc417f968cc652ad30d0953ca766d2891b21639c769f66e93d71bbaf53e859aae444df63b538ad95d6339b4c4d73e59d433a542fa5149ef"
+    }
+  }
+}
